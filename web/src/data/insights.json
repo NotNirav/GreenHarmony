@@ -1,0 +1,2700 @@
+[
+ {
+  "id": "w01",
+  "category": "watering",
+  "contexts": [
+   "loading",
+   "transition",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Water early in the morning. Less water evaporates and leaves dry before the afternoon heat.",
+  "plant_links": []
+ },
+ {
+  "id": "w02",
+  "category": "watering",
+  "contexts": [
+   "loading",
+   "transition",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Push a finger 3 cm into the soil. If it feels dry, water; if it feels damp, wait a day.",
+  "plant_links": []
+ },
+ {
+  "id": "w03",
+  "category": "watering",
+  "contexts": [
+   "loading",
+   "transition",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "More potted plants die from too much water than too little.",
+  "plant_links": []
+ },
+ {
+  "id": "w04",
+  "category": "watering",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Water slowly until it drips from the drainage hole. That means the whole root ball got a drink.",
+  "plant_links": []
+ },
+ {
+  "id": "w05",
+  "category": "watering",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Terracotta pots breathe and dry fast. Plastic pots hold water longer. Adjust your watering to match.",
+  "plant_links": []
+ },
+ {
+  "id": "w06",
+  "category": "watering",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [
+   6,
+   7,
+   8,
+   9
+  ],
+  "plant_ids": [],
+  "text": "Monsoon tip: tilt pots or raise them on bricks so rainwater never pools at the bottom.",
+  "plant_links": []
+ },
+ {
+  "id": "w07",
+  "category": "watering",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [
+   4,
+   5
+  ],
+  "plant_ids": [],
+  "text": "In May heat, small pots on a sunny balcony may need water twice a day.",
+  "plant_links": []
+ },
+ {
+  "id": "w08",
+  "category": "watering",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Save the water used to wash dal and rice. It carries a little nutrition for your plants.",
+  "plant_links": []
+ },
+ {
+  "id": "w09",
+  "category": "watering",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Drip-irrigate for free: poke tiny holes in a bottle cap and turn an old bottle upside down into the pot.",
+  "plant_links": []
+ },
+ {
+  "id": "w10",
+  "category": "watering",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Water the soil, not the leaves. Wet leaves invite fungus, especially in humid cities.",
+  "plant_links": []
+ },
+ {
+  "id": "w11",
+  "category": "watering",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "A 3 to 5 cm mulch of dry leaves on top of the soil can cut watering needs noticeably.",
+  "plant_links": []
+ },
+ {
+  "id": "w12",
+  "category": "watering",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "RO reject water is salty. Mix it with tap water before using it on plants.",
+  "plant_links": []
+ },
+ {
+  "id": "w13",
+  "category": "watering",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Drooping in the afternoon but fresh by evening? That is heat stress, not thirst.",
+  "plant_links": []
+ },
+ {
+  "id": "w14",
+  "category": "watering",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Grouping pots together raises humidity around them and reduces water loss.",
+  "plant_links": []
+ },
+ {
+  "id": "w15",
+  "category": "watering",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [
+   "aloe_vera",
+   "snake_plant",
+   "jade_plant"
+  ],
+  "text": "Succulents store water in their leaves. Water deeply but rarely.",
+  "plant_links": [
+   {
+    "slug": "aloe-vera",
+    "name": "Aloe Vera"
+   },
+   {
+    "slug": "snake-plant",
+    "name": "Snake Plant"
+   },
+   {
+    "slug": "jade-plant",
+    "name": "Jade Plant"
+   }
+  ]
+ },
+ {
+  "id": "w16",
+  "category": "watering",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Yellow lower leaves plus wet soil usually means overwatering, not hunger.",
+  "plant_links": []
+ },
+ {
+  "id": "w17",
+  "category": "watering",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Self-watering pots with a reservoir are great for people who travel often.",
+  "plant_links": []
+ },
+ {
+  "id": "w18",
+  "category": "watering",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Leaving town for a week? Group your pots in a shady corner standing on a wet towel.",
+  "plant_links": []
+ },
+ {
+  "id": "s01",
+  "category": "sunlight",
+  "contexts": [
+   "loading",
+   "transition",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "East-facing balconies get gentle morning sun, which most herbs and flowers love.",
+  "plant_links": []
+ },
+ {
+  "id": "s02",
+  "category": "sunlight",
+  "contexts": [
+   "loading",
+   "transition",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "West-facing balconies get harsh afternoon sun. Pick heat-lovers like bougainvillea and portulaca.",
+  "plant_links": []
+ },
+ {
+  "id": "s03",
+  "category": "sunlight",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "North-facing balconies in India get little direct sun. Ferns, money plant and peace lily do well there.",
+  "plant_links": []
+ },
+ {
+  "id": "s04",
+  "category": "sunlight",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "South-facing balconies are the sunniest in India, ideal for vegetables and fruiting plants.",
+  "plant_links": []
+ },
+ {
+  "id": "s05",
+  "category": "sunlight",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Fruiting vegetables like tomato and chilli need at least 6 hours of direct sun to give a good harvest.",
+  "plant_links": []
+ },
+ {
+  "id": "s06",
+  "category": "sunlight",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Leafy greens like palak and methi can manage with 3 to 4 hours of sun.",
+  "plant_links": []
+ },
+ {
+  "id": "s07",
+  "category": "sunlight",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Count sun hours on a weekend: check your balcony every hour and note where light falls.",
+  "plant_links": []
+ },
+ {
+  "id": "s08",
+  "category": "sunlight",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "A plant leaning toward the window is asking for more light. Rotate it weekly.",
+  "plant_links": []
+ },
+ {
+  "id": "s09",
+  "category": "sunlight",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [
+   4,
+   5
+  ],
+  "plant_ids": [],
+  "text": "A 50% green shade net over the balcony in April and May can save tender plants from scorching.",
+  "plant_links": []
+ },
+ {
+  "id": "s10",
+  "category": "sunlight",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Pale, stretched stems mean the plant is not getting enough light.",
+  "plant_links": []
+ },
+ {
+  "id": "s11",
+  "category": "sunlight",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "White walls reflect light. A bright wall can add useful light to a shady balcony.",
+  "plant_links": []
+ },
+ {
+  "id": "s12",
+  "category": "sunlight",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Indoor plants near a window get many times more light than those a few metres inside the room.",
+  "plant_links": []
+ },
+ {
+  "id": "s13",
+  "category": "sunlight",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [
+   10,
+   11,
+   12,
+   1
+  ],
+  "plant_ids": [],
+  "text": "In winter the sun is lower and reaches deeper into balconies. Move sun-lovers forward.",
+  "plant_links": []
+ },
+ {
+  "id": "o01",
+  "category": "soil",
+  "contexts": [
+   "loading",
+   "transition",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "A good Indian potting mix: 40% garden soil, 30% compost, 30% cocopeat or sand.",
+  "plant_links": []
+ },
+ {
+  "id": "o02",
+  "category": "soil",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Never use plain garden soil in pots. It compacts and chokes the roots.",
+  "plant_links": []
+ },
+ {
+  "id": "o03",
+  "category": "soil",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Cocopeat holds water like a sponge and keeps pots light, which helps on balconies with weight limits.",
+  "plant_links": []
+ },
+ {
+  "id": "o04",
+  "category": "soil",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Vermicompost is gentle and safe; you can add a handful to every pot each month.",
+  "plant_links": []
+ },
+ {
+  "id": "o05",
+  "category": "soil",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Kitchen waste plus dry leaves in a perforated bin becomes compost in about 6 to 8 weeks.",
+  "plant_links": []
+ },
+ {
+  "id": "o06",
+  "category": "soil",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Banana peels soaked in water for 2 days make a potassium-rich liquid feed for flowering plants.",
+  "plant_links": []
+ },
+ {
+  "id": "o07",
+  "category": "soil",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Crushed eggshells add calcium and help prevent blossom-end rot in tomatoes.",
+  "plant_links": []
+ },
+ {
+  "id": "o08",
+  "category": "soil",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Used tea leaves, rinsed and dried, add organic matter to the soil.",
+  "plant_links": []
+ },
+ {
+  "id": "o09",
+  "category": "soil",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Every pot needs a drainage hole. No hole means rotten roots, sooner or later.",
+  "plant_links": []
+ },
+ {
+  "id": "o10",
+  "category": "soil",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Refresh the top 3 cm of soil in long-lived pots every year to restore nutrients.",
+  "plant_links": []
+ },
+ {
+  "id": "o11",
+  "category": "soil",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Diluted buttermilk (1:10) is a traditional booster that curry leaf and many plants respond to.",
+  "plant_links": []
+ },
+ {
+  "id": "o12",
+  "category": "soil",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Fermented jeevamrut from cow dung, jaggery and besan is a popular natural farming tonic.",
+  "plant_links": []
+ },
+ {
+  "id": "o13",
+  "category": "soil",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Pots heavier than about 50 kg should sit close to walls or beams. Ask your society about balcony load limits.",
+  "plant_links": []
+ },
+ {
+  "id": "o14",
+  "category": "soil",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Grow bags are cheap, light and let roots breathe. Great for vegetables on terraces.",
+  "plant_links": []
+ },
+ {
+  "id": "p01",
+  "category": "pests",
+  "contexts": [
+   "loading",
+   "transition",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Neem oil spray: 5 ml neem oil plus a few drops of liquid soap in 1 litre of water. Spray at dusk.",
+  "plant_links": []
+ },
+ {
+  "id": "p02",
+  "category": "pests",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [
+   "hibiscus"
+  ],
+  "text": "White cotton-like patches on hibiscus are mealybugs. Wipe them off with neem oil on a cotton bud.",
+  "plant_links": [
+   {
+    "slug": "hibiscus",
+    "name": "Hibiscus"
+   }
+  ]
+ },
+ {
+  "id": "p03",
+  "category": "pests",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Curling chilli leaves are often caused by thrips or mites. Check the leaf underside.",
+  "plant_links": []
+ },
+ {
+  "id": "p04",
+  "category": "pests",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Yellow sticky traps catch whiteflies and fungus gnats without chemicals.",
+  "plant_links": []
+ },
+ {
+  "id": "p05",
+  "category": "pests",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [
+   "marigold",
+   "tomato"
+  ],
+  "text": "Marigolds near vegetables help repel nematodes and some insects.",
+  "plant_links": [
+   {
+    "slug": "marigold",
+    "name": "Marigold"
+   },
+   {
+    "slug": "tomato",
+    "name": "Tomato"
+   }
+  ]
+ },
+ {
+  "id": "p06",
+  "category": "pests",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Ladybirds eat aphids. Dill, coriander flowers and marigold attract them to your balcony.",
+  "plant_links": []
+ },
+ {
+  "id": "p07",
+  "category": "pests",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "A strong spray of plain water knocks aphids off stems. Repeat for 3 days.",
+  "plant_links": []
+ },
+ {
+  "id": "p08",
+  "category": "pests",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Check new plants from the nursery for pests before placing them next to your other pots.",
+  "plant_links": []
+ },
+ {
+  "id": "p09",
+  "category": "pests",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Garlic-chilli spray is a classic Indian kitchen pesticide. Blend, strain, dilute and spray.",
+  "plant_links": []
+ },
+ {
+  "id": "p10",
+  "category": "pests",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [
+   6,
+   7,
+   8,
+   9
+  ],
+  "plant_ids": [],
+  "text": "Monsoon brings snails and fungus. Remove dead leaves and keep pots slightly apart for air flow.",
+  "plant_links": []
+ },
+ {
+  "id": "p11",
+  "category": "pests",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Pigeons digging in pots? A layer of pebbles or a net over the soil keeps them away.",
+  "plant_links": []
+ },
+ {
+  "id": "p12",
+  "category": "pests",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Mosquitoes breed in saucers. Empty plate trays after watering, especially in monsoon.",
+  "plant_links": []
+ },
+ {
+  "id": "p13",
+  "category": "pests",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [
+   "lotus",
+   "water_lily"
+  ],
+  "text": "Add a few guppy fish to your lotus tub. They eat mosquito larvae.",
+  "plant_links": [
+   {
+    "slug": "lotus",
+    "name": "Lotus"
+   },
+   {
+    "slug": "water-lily",
+    "name": "Water Lily"
+   }
+  ]
+ },
+ {
+  "id": "p14",
+  "category": "pests",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Holes in leaves with no bug in sight? Caterpillars feed at night. Check with a torch.",
+  "plant_links": []
+ },
+ {
+  "id": "z01",
+  "category": "seasonal",
+  "contexts": [
+   "loading",
+   "transition",
+   "tip"
+  ],
+  "months": [
+   6,
+   7
+  ],
+  "plant_ids": [],
+  "text": "June to July is the best planting time in most of India. Monsoon rain helps new plants settle.",
+  "plant_links": []
+ },
+ {
+  "id": "z02",
+  "category": "seasonal",
+  "contexts": [
+   "loading",
+   "transition",
+   "tip"
+  ],
+  "months": [
+   10,
+   11
+  ],
+  "plant_ids": [],
+  "text": "October to November is perfect for sowing winter vegetables like palak, methi, carrot and peas.",
+  "plant_links": []
+ },
+ {
+  "id": "z03",
+  "category": "seasonal",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [
+   10
+  ],
+  "plant_ids": [
+   "coriander"
+  ],
+  "text": "Sow coriander now. Cool weather keeps it leafy for longer before it flowers.",
+  "plant_links": [
+   {
+    "slug": "coriander",
+    "name": "Coriander"
+   }
+  ]
+ },
+ {
+  "id": "z04",
+  "category": "seasonal",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [
+   2,
+   3
+  ],
+  "plant_ids": [],
+  "text": "February to March is the time to sow summer crops like bhindi, lauki, cucumber and karela.",
+  "plant_links": []
+ },
+ {
+  "id": "z05",
+  "category": "seasonal",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [
+   4,
+   5
+  ],
+  "plant_ids": [],
+  "text": "Summer survival: shift delicate pots to the shadiest wall and water in the evening as well.",
+  "plant_links": []
+ },
+ {
+  "id": "z06",
+  "category": "seasonal",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [
+   12,
+   1
+  ],
+  "plant_ids": [],
+  "text": "In north Indian winters, cover tulsi with a cloth at night to protect it from frost.",
+  "plant_links": []
+ },
+ {
+  "id": "z07",
+  "category": "seasonal",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [
+   10
+  ],
+  "plant_ids": [
+   "rose_desi"
+  ],
+  "text": "October is rose pruning month. Cut stems by a third for a flush of winter blooms.",
+  "plant_links": [
+   {
+    "slug": "rose-desi",
+    "name": "Desi Rose"
+   }
+  ]
+ },
+ {
+  "id": "z08",
+  "category": "seasonal",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [
+   8,
+   9
+  ],
+  "plant_ids": [
+   "chrysanthemum"
+  ],
+  "text": "Stop pinching chrysanthemum tips by end of August so buds form in time for Diwali.",
+  "plant_links": [
+   {
+    "slug": "chrysanthemum",
+    "name": "Chrysanthemum"
+   }
+  ]
+ },
+ {
+  "id": "z09",
+  "category": "seasonal",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [
+   9,
+   10
+  ],
+  "plant_ids": [
+   "marigold"
+  ],
+  "text": "Sow marigold seeds in September for orange blooms by Diwali.",
+  "plant_links": [
+   {
+    "slug": "marigold",
+    "name": "Marigold"
+   }
+  ]
+ },
+ {
+  "id": "z10",
+  "category": "seasonal",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [
+   1
+  ],
+  "plant_ids": [
+   "mogra"
+  ],
+  "text": "January is the time to hard-prune mogra for a flood of summer flowers.",
+  "plant_links": [
+   {
+    "slug": "mogra",
+    "name": "Mogra"
+   }
+  ]
+ },
+ {
+  "id": "z11",
+  "category": "seasonal",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [
+   11,
+   12,
+   1,
+   2
+  ],
+  "plant_ids": [],
+  "text": "Winter is the best season for strawberries, petunias and pansies in the Indian plains.",
+  "plant_links": []
+ },
+ {
+  "id": "z12",
+  "category": "seasonal",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [
+   3,
+   4
+  ],
+  "plant_ids": [],
+  "text": "Before summer, add mulch to every pot. It keeps roots up to several degrees cooler.",
+  "plant_links": []
+ },
+ {
+  "id": "z13",
+  "category": "seasonal",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [
+   6
+  ],
+  "plant_ids": [],
+  "text": "Clean drains and gutters before the monsoon so balcony water does not flood the pots.",
+  "plant_links": []
+ },
+ {
+  "id": "z14",
+  "category": "seasonal",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [
+   9,
+   10
+  ],
+  "plant_ids": [],
+  "text": "After the monsoon, give pots a feed of compost. Heavy rain washes nutrients away.",
+  "plant_links": []
+ },
+ {
+  "id": "z15",
+  "category": "seasonal",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [
+   12,
+   1,
+   2
+  ],
+  "plant_ids": [],
+  "text": "Plants grow slowly in winter. Reduce watering and feeding until spring.",
+  "plant_links": []
+ },
+ {
+  "id": "c01",
+  "category": "climate",
+  "contexts": [
+   "loading",
+   "transition",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Vegetation can lower local temperatures by a few degrees through shade and evapotranspiration.",
+  "plant_links": []
+ },
+ {
+  "id": "c02",
+  "category": "climate",
+  "contexts": [
+   "loading",
+   "transition",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Green roofs can hold back a large share of rainfall and slow stormwater runoff.",
+  "plant_links": []
+ },
+ {
+  "id": "c03",
+  "category": "climate",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Indian cities are heat islands. Concrete can stay hot long after sunset, while plants cool the air.",
+  "plant_links": []
+ },
+ {
+  "id": "c04",
+  "category": "climate",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "A green curtain of climbers on a west wall can noticeably cool the room behind it.",
+  "plant_links": []
+ },
+ {
+  "id": "c05",
+  "category": "climate",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Every pot of soil stores a little carbon. Thousands of balconies add up.",
+  "plant_links": []
+ },
+ {
+  "id": "c06",
+  "category": "climate",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Growing your own greens cuts the transport, packaging and cold storage behind store-bought vegetables.",
+  "plant_links": []
+ },
+ {
+  "id": "c07",
+  "category": "climate",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Native and drought-hardy plants need far less water, which matters in water-stressed cities.",
+  "plant_links": []
+ },
+ {
+  "id": "c08",
+  "category": "climate",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Composting kitchen waste keeps it out of landfills, where it would release methane.",
+  "plant_links": []
+ },
+ {
+  "id": "c09",
+  "category": "climate",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Plants release water vapour through their leaves, which acts as a natural air conditioner.",
+  "plant_links": []
+ },
+ {
+  "id": "c10",
+  "category": "climate",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "A balcony full of plants also traps some street dust on its leaves.",
+  "plant_links": []
+ },
+ {
+  "id": "c11",
+  "category": "climate",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Harvesting rainwater from a balcony pipe into a bucket can water pots for days.",
+  "plant_links": []
+ },
+ {
+  "id": "c12",
+  "category": "climate",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Choosing plants that suit your climate means less water, less fertiliser and fewer failures.",
+  "plant_links": []
+ },
+ {
+  "id": "b01",
+  "category": "beginner",
+  "contexts": [
+   "loading",
+   "transition",
+   "tip",
+   "empty"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Start with three easy plants. Success with a few beats losing many.",
+  "plant_links": []
+ },
+ {
+  "id": "b02",
+  "category": "beginner",
+  "contexts": [
+   "loading",
+   "transition",
+   "tip",
+   "empty"
+  ],
+  "months": [],
+  "plant_ids": [
+   "money_plant",
+   "snake_plant",
+   "aloe_vera"
+  ],
+  "text": "Money plant, snake plant and aloe vera are nearly impossible to kill. Perfect first plants.",
+  "plant_links": [
+   {
+    "slug": "money-plant",
+    "name": "Money Plant"
+   },
+   {
+    "slug": "snake-plant",
+    "name": "Snake Plant"
+   },
+   {
+    "slug": "aloe-vera",
+    "name": "Aloe Vera"
+   }
+  ]
+ },
+ {
+  "id": "b03",
+  "category": "beginner",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Buy from a local nursery when possible. The plants are already used to your city's weather.",
+  "plant_links": []
+ },
+ {
+  "id": "b04",
+  "category": "beginner",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Give new plants a week in light shade before moving them into full sun.",
+  "plant_links": []
+ },
+ {
+  "id": "b05",
+  "category": "beginner",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Repot only when roots come out of the drainage hole, and go up just one pot size.",
+  "plant_links": []
+ },
+ {
+  "id": "b06",
+  "category": "beginner",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Leaves turning yellow is normal for old leaves. Worry only if new leaves yellow.",
+  "plant_links": []
+ },
+ {
+  "id": "b07",
+  "category": "beginner",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Write the sowing date on the pot with a marker. It makes harvest timing easy.",
+  "plant_links": []
+ },
+ {
+  "id": "b08",
+  "category": "beginner",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Most herbs grow bushier the more you harvest them. Pinch the tips often.",
+  "plant_links": []
+ },
+ {
+  "id": "b09",
+  "category": "beginner",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Rotate pots a quarter turn each week so plants grow evenly.",
+  "plant_links": []
+ },
+ {
+  "id": "b10",
+  "category": "beginner",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Remove dead flowers (deadheading) and most plants will make more blooms.",
+  "plant_links": []
+ },
+ {
+  "id": "b11",
+  "category": "beginner",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Kitchen scraps can regrow: spring onion roots, mint stems, garlic cloves and coriander seeds.",
+  "plant_links": []
+ },
+ {
+  "id": "b12",
+  "category": "beginner",
+  "contexts": [
+   "loading",
+   "tip",
+   "empty"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "One plant that thrives is better than ten that struggle. Choose for your conditions, not the photo.",
+  "plant_links": []
+ },
+ {
+  "id": "b13",
+  "category": "beginner",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Plants sold in tiny nursery bags should be moved to a proper pot within a week or two.",
+  "plant_links": []
+ },
+ {
+  "id": "b14",
+  "category": "beginner",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "A plant diary or phone photos each week help you spot problems early.",
+  "plant_links": []
+ },
+ {
+  "id": "b15",
+  "category": "beginner",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Hanging baskets dry out the fastest. Check them first on hot days.",
+  "plant_links": []
+ },
+ {
+  "id": "b16",
+  "category": "beginner",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Put tall plants at the back and trailing plants at the edges of your balcony.",
+  "plant_links": []
+ },
+ {
+  "id": "b17",
+  "category": "beginner",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Feed little and often. Too much fertiliser burns roots.",
+  "plant_links": []
+ },
+ {
+  "id": "b18",
+  "category": "beginner",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Morning is the best time to inspect plants. Pests and wilting are easiest to spot then.",
+  "plant_links": []
+ },
+ {
+  "id": "k01",
+  "category": "culture",
+  "contexts": [
+   "loading",
+   "transition",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [
+   "tulsi"
+  ],
+  "text": "Tulsi is grown in a tulsi vrindavan in many Indian homes and worshipped every morning.",
+  "plant_links": [
+   {
+    "slug": "tulsi",
+    "name": "Tulsi"
+   }
+  ]
+ },
+ {
+  "id": "k02",
+  "category": "culture",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [
+   "hibiscus"
+  ],
+  "text": "Red hibiscus is traditionally offered to Lord Ganesha and Goddess Kali.",
+  "plant_links": [
+   {
+    "slug": "hibiscus",
+    "name": "Hibiscus"
+   }
+  ]
+ },
+ {
+  "id": "k03",
+  "category": "culture",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [
+   "marigold"
+  ],
+  "text": "Marigold torans hang on doors for almost every Indian festival, from Diwali to weddings.",
+  "plant_links": [
+   {
+    "slug": "marigold",
+    "name": "Marigold"
+   }
+  ]
+ },
+ {
+  "id": "k04",
+  "category": "culture",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [
+   "mogra"
+  ],
+  "text": "Mogra gajras have scented Indian evenings for centuries.",
+  "plant_links": [
+   {
+    "slug": "mogra",
+    "name": "Mogra"
+   }
+  ]
+ },
+ {
+  "id": "k05",
+  "category": "culture",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [
+   "parijat"
+  ],
+  "text": "Parijat is said in legend to have been brought from heaven by Lord Krishna.",
+  "plant_links": [
+   {
+    "slug": "parijat",
+    "name": "Parijat"
+   }
+  ]
+ },
+ {
+  "id": "k06",
+  "category": "culture",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [
+   "bael"
+  ],
+  "text": "Bael leaves in sets of three are offered to Lord Shiva.",
+  "plant_links": [
+   {
+    "slug": "bael",
+    "name": "Bael"
+   }
+  ]
+ },
+ {
+  "id": "k07",
+  "category": "culture",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [
+   "shami"
+  ],
+  "text": "Shami leaves are exchanged as 'gold' on Dussehra in Maharashtra.",
+  "plant_links": [
+   {
+    "slug": "shami",
+    "name": "Shami"
+   }
+  ]
+ },
+ {
+  "id": "k08",
+  "category": "culture",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [
+   "money_plant"
+  ],
+  "text": "Many Indian homes keep a money plant for prosperity, as per Vastu belief.",
+  "plant_links": [
+   {
+    "slug": "money-plant",
+    "name": "Money Plant"
+   }
+  ]
+ },
+ {
+  "id": "k09",
+  "category": "culture",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [
+   "lotus"
+  ],
+  "text": "The lotus is India's national flower and a symbol of purity rising from mud.",
+  "plant_links": [
+   {
+    "slug": "lotus",
+    "name": "Lotus"
+   }
+  ]
+ },
+ {
+  "id": "k10",
+  "category": "culture",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [
+   "balsam"
+  ],
+  "text": "Balsam (terda) flowers are used in Gauri pooja during Ganeshotsav in Maharashtra.",
+  "plant_links": [
+   {
+    "slug": "balsam",
+    "name": "Balsam"
+   }
+  ]
+ },
+ {
+  "id": "k11",
+  "category": "culture",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [
+   "crossandra"
+  ],
+  "text": "Aboli flowers are woven into gajras across Maharashtra and South India.",
+  "plant_links": [
+   {
+    "slug": "crossandra",
+    "name": "Crossandra"
+   }
+  ]
+ },
+ {
+  "id": "k12",
+  "category": "culture",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [
+   "aparajita"
+  ],
+  "text": "Aparajita flowers are offered to Lord Shiva and Goddess Durga, and also make a blue tea.",
+  "plant_links": [
+   {
+    "slug": "aparajita",
+    "name": "Aparajita"
+   }
+  ]
+ },
+ {
+  "id": "k13",
+  "category": "culture",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [
+   "peepal_bonsai"
+  ],
+  "text": "The peepal tree is sacred in Hinduism and Buddhism. The Buddha attained enlightenment under one.",
+  "plant_links": [
+   {
+    "slug": "peepal-bonsai",
+    "name": "Peepal Bonsai"
+   }
+  ]
+ },
+ {
+  "id": "k14",
+  "category": "culture",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [
+   "banyan_bonsai"
+  ],
+  "text": "The banyan is India's national tree, known for roots that grow down from its branches.",
+  "plant_links": [
+   {
+    "slug": "banyan-bonsai",
+    "name": "Banyan Bonsai"
+   }
+  ]
+ },
+ {
+  "id": "k15",
+  "category": "culture",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [
+   "amla"
+  ],
+  "text": "Amla Navami celebrates the amla tree with a meal eaten beneath it.",
+  "plant_links": [
+   {
+    "slug": "amla",
+    "name": "Amla"
+   }
+  ]
+ },
+ {
+  "id": "k16",
+  "category": "culture",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [
+   "wheatgrass"
+  ],
+  "text": "During Navratri many homes sow jowar or wheat in a pot as a symbol of prosperity.",
+  "plant_links": [
+   {
+    "slug": "wheatgrass",
+    "name": "Wheatgrass"
+   }
+  ]
+ },
+ {
+  "id": "k17",
+  "category": "culture",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [
+   "betel_leaf"
+  ],
+  "text": "The betel leaf (paan) is used in almost every Hindu pooja and welcome ritual.",
+  "plant_links": [
+   {
+    "slug": "betel-leaf",
+    "name": "Betel Leaf"
+   }
+  ]
+ },
+ {
+  "id": "k18",
+  "category": "culture",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [
+   "curry_leaf"
+  ],
+  "text": "No South Indian tadka is complete without curry leaves.",
+  "plant_links": [
+   {
+    "slug": "curry-leaf",
+    "name": "Curry Leaf"
+   }
+  ]
+ },
+ {
+  "id": "f01",
+  "category": "fact",
+  "contexts": [
+   "loading",
+   "transition",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "A sunflower bud tracks the sun across the sky. Once it opens it usually faces east.",
+  "plant_links": []
+ },
+ {
+  "id": "f02",
+  "category": "fact",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [
+   "portulaca"
+  ],
+  "text": "Portulaca is called the 9 O'Clock flower because its blooms open mid-morning.",
+  "plant_links": [
+   {
+    "slug": "portulaca",
+    "name": "Portulaca"
+   }
+  ]
+ },
+ {
+  "id": "f03",
+  "category": "fact",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [
+   "dragon_fruit"
+  ],
+  "text": "Dragon fruit flowers bloom for just one night and wilt by morning.",
+  "plant_links": [
+   {
+    "slug": "dragon-fruit",
+    "name": "Dragon Fruit"
+   }
+  ]
+ },
+ {
+  "id": "f04",
+  "category": "fact",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [
+   "raat_ki_rani"
+  ],
+  "text": "Raat ki rani releases its scent at night to attract moths for pollination.",
+  "plant_links": [
+   {
+    "slug": "raat-ki-rani",
+    "name": "Raat Ki Rani"
+   }
+  ]
+ },
+ {
+  "id": "f05",
+  "category": "fact",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [
+   "parijat"
+  ],
+  "text": "Parijat flowers fall to the ground before sunrise, which is why it is also called the tree of sorrow.",
+  "plant_links": [
+   {
+    "slug": "parijat",
+    "name": "Parijat"
+   }
+  ]
+ },
+ {
+  "id": "f06",
+  "category": "fact",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [
+   "snake_plant"
+  ],
+  "text": "Snake plants use a special type of photosynthesis that lets them save water.",
+  "plant_links": [
+   {
+    "slug": "snake-plant",
+    "name": "Snake Plant"
+   }
+  ]
+ },
+ {
+  "id": "f07",
+  "category": "fact",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [
+   "aloe_vera"
+  ],
+  "text": "Aloe vera leaves are about 95% water.",
+  "plant_links": [
+   {
+    "slug": "aloe-vera",
+    "name": "Aloe Vera"
+   }
+  ]
+ },
+ {
+  "id": "f08",
+  "category": "fact",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [
+   "tulsi"
+  ],
+  "text": "Tulsi has been part of Ayurvedic practice for thousands of years.",
+  "plant_links": [
+   {
+    "slug": "tulsi",
+    "name": "Tulsi"
+   }
+  ]
+ },
+ {
+  "id": "f09",
+  "category": "fact",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [
+   "mint"
+  ],
+  "text": "Mint spreads through underground runners, which is why it takes over shared pots.",
+  "plant_links": [
+   {
+    "slug": "mint",
+    "name": "Mint"
+   }
+  ]
+ },
+ {
+  "id": "f10",
+  "category": "fact",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [
+   "lotus"
+  ],
+  "text": "Lotus leaves repel water so well that droplets roll off carrying dust. Scientists call it the lotus effect.",
+  "plant_links": [
+   {
+    "slug": "lotus",
+    "name": "Lotus"
+   }
+  ]
+ },
+ {
+  "id": "f11",
+  "category": "fact",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [
+   "calathea"
+  ],
+  "text": "Calathea leaves fold up at night and open in the morning, earning it the name prayer plant.",
+  "plant_links": [
+   {
+    "slug": "calathea",
+    "name": "Calathea"
+   }
+  ]
+ },
+ {
+  "id": "f12",
+  "category": "fact",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Bees see ultraviolet patterns on flowers that are invisible to us.",
+  "plant_links": []
+ },
+ {
+  "id": "f13",
+  "category": "fact",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Plants can't move, but they can sense touch, gravity and light.",
+  "plant_links": []
+ },
+ {
+  "id": "f14",
+  "category": "fact",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "A single tomato plant in a sunny pot can produce several kilograms of fruit in a season.",
+  "plant_links": []
+ },
+ {
+  "id": "f15",
+  "category": "fact",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [
+   "moringa"
+  ],
+  "text": "Moringa leaves are rich in iron, calcium and vitamin C, earning it the name miracle tree.",
+  "plant_links": [
+   {
+    "slug": "moringa",
+    "name": "Moringa"
+   }
+  ]
+ },
+ {
+  "id": "f16",
+  "category": "fact",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [
+   "bamboo_golden"
+  ],
+  "text": "Some bamboos are among the fastest-growing plants on Earth.",
+  "plant_links": [
+   {
+    "slug": "bamboo-golden",
+    "name": "Golden Bamboo"
+   }
+  ]
+ },
+ {
+  "id": "f17",
+  "category": "fact",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [
+   "papaya"
+  ],
+  "text": "Papaya can go from seed to fruit in under a year.",
+  "plant_links": [
+   {
+    "slug": "papaya",
+    "name": "Papaya"
+   }
+  ]
+ },
+ {
+  "id": "f18",
+  "category": "fact",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [
+   "balsam"
+  ],
+  "text": "Ripe balsam pods burst open when touched, flinging seeds away. That gives it the name touch-me-not.",
+  "plant_links": [
+   {
+    "slug": "balsam",
+    "name": "Balsam"
+   }
+  ]
+ },
+ {
+  "id": "f19",
+  "category": "fact",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Plants talk to each other through chemical signals and fungal networks in the soil.",
+  "plant_links": []
+ },
+ {
+  "id": "f20",
+  "category": "fact",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Roots grow toward water and away from light. Plant scientists call it tropism.",
+  "plant_links": []
+ },
+ {
+  "id": "f21",
+  "category": "fact",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [
+   "peace_lily"
+  ],
+  "text": "A drooping peace lily recovers within hours of watering. It is a built-in thirst alarm.",
+  "plant_links": [
+   {
+    "slug": "peace-lily",
+    "name": "Peace Lily"
+   }
+  ]
+ },
+ {
+  "id": "f22",
+  "category": "fact",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "About one in every three bites of food we eat depends on pollinators.",
+  "plant_links": []
+ },
+ {
+  "id": "f23",
+  "category": "fact",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "India is one of the world's megadiverse countries, home to a large share of global plant species.",
+  "plant_links": []
+ },
+ {
+  "id": "f24",
+  "category": "fact",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [
+   "curry_leaf"
+  ],
+  "text": "Curry leaf belongs to the citrus family, the same family as lemon.",
+  "plant_links": [
+   {
+    "slug": "curry-leaf",
+    "name": "Curry Leaf"
+   }
+  ]
+ },
+ {
+  "id": "f25",
+  "category": "fact",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [
+   "coriander"
+  ],
+  "text": "Coriander leaves and dhania seeds come from the same plant.",
+  "plant_links": [
+   {
+    "slug": "coriander",
+    "name": "Coriander"
+   }
+  ]
+ },
+ {
+  "id": "i01",
+  "category": "impact",
+  "contexts": [
+   "loading",
+   "transition",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "One balcony is small. Thousands of balconies are an urban forest.",
+  "plant_links": []
+ },
+ {
+  "id": "i02",
+  "category": "impact",
+  "contexts": [
+   "loading",
+   "transition",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "If 10% of homes greened just 2 square metres each, a city would gain hectares of new green space.",
+  "plant_links": []
+ },
+ {
+  "id": "i03",
+  "category": "impact",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Flowering plants on your balcony are fuel stations for bees and butterflies in the city.",
+  "plant_links": []
+ },
+ {
+  "id": "i04",
+  "category": "impact",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "A pot of tulsi or marigold can attract pollinators to an otherwise concrete floor.",
+  "plant_links": []
+ },
+ {
+  "id": "i05",
+  "category": "impact",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Growing even a few herbs at home cuts down on plastic packaging from the market.",
+  "plant_links": []
+ },
+ {
+  "id": "i06",
+  "category": "impact",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Sunbirds and bulbuls visit balconies with nectar flowers like ixora, pentas and hibiscus.",
+  "plant_links": []
+ },
+ {
+  "id": "i07",
+  "category": "impact",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Shared seedlings build neighbourhoods. Swap cuttings with your society members.",
+  "plant_links": []
+ },
+ {
+  "id": "i08",
+  "category": "impact",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Kitchen gardens connect children to where food comes from.",
+  "plant_links": []
+ },
+ {
+  "id": "i09",
+  "category": "impact",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "A green view from your window has been linked to lower stress.",
+  "plant_links": []
+ },
+ {
+  "id": "i10",
+  "category": "impact",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Every kilogram of food you grow is a kilogram that didn't need a truck.",
+  "plant_links": []
+ },
+ {
+  "id": "i11",
+  "category": "impact",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "A diverse balcony with herbs, flowers and climbers supports more insects than one type of plant.",
+  "plant_links": []
+ },
+ {
+  "id": "i12",
+  "category": "impact",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Community gardens on terraces in Mumbai and Pune now grow vegetables for whole buildings.",
+  "plant_links": []
+ },
+ {
+  "id": "e01",
+  "category": "beginner",
+  "contexts": [
+   "empty"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Nothing here yet. Every garden starts with a single seed.",
+  "plant_links": []
+ },
+ {
+  "id": "e02",
+  "category": "beginner",
+  "contexts": [
+   "empty"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "No plants match these filters. Try loosening one, the way you'd loosen soil.",
+  "plant_links": []
+ },
+ {
+  "id": "e03",
+  "category": "beginner",
+  "contexts": [
+   "empty"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Empty for now. Even a 1 m² balcony can hold 6 to 8 pots.",
+  "plant_links": []
+ },
+ {
+  "id": "e04",
+  "category": "beginner",
+  "contexts": [
+   "empty"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Nothing found. Did you know coriander sprouts from the dhania in your kitchen?",
+  "plant_links": []
+ },
+ {
+  "id": "e05",
+  "category": "beginner",
+  "contexts": [
+   "empty"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "No results. Try searching in Hindi or Marathi, like tulsi, pudina or jaswand.",
+  "plant_links": []
+ },
+ {
+  "id": "e06",
+  "category": "beginner",
+  "contexts": [
+   "empty"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Quiet here. Plants grow in silence too, then one morning there's a flower.",
+  "plant_links": []
+ },
+ {
+  "id": "h01",
+  "category": "food",
+  "contexts": [
+   "loading",
+   "transition",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "A 60 cm trough of methi or palak can give a family a bunch of greens every week.",
+  "plant_links": []
+ },
+ {
+  "id": "h02",
+  "category": "food",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Harvest leafy greens from the outside in. The centre keeps producing.",
+  "plant_links": []
+ },
+ {
+  "id": "h03",
+  "category": "food",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Pick chillies green for heat and freshness, or let them turn red for drying.",
+  "plant_links": []
+ },
+ {
+  "id": "h04",
+  "category": "food",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Microgreens are ready in 7 to 12 days and can hold more nutrients than mature leaves.",
+  "plant_links": []
+ },
+ {
+  "id": "h05",
+  "category": "food",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [
+   "tomato"
+  ],
+  "text": "Pick tomatoes when they blush pink and let them ripen indoors. Birds won't get them first.",
+  "plant_links": [
+   {
+    "slug": "tomato",
+    "name": "Tomato"
+   }
+  ]
+ },
+ {
+  "id": "h06",
+  "category": "food",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [
+   "okra"
+  ],
+  "text": "Harvest bhindi every other day. Pods left too long turn woody.",
+  "plant_links": [
+   {
+    "slug": "okra",
+    "name": "Okra"
+   }
+  ]
+ },
+ {
+  "id": "h07",
+  "category": "food",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Sow leafy greens every two weeks in small batches for a continuous harvest.",
+  "plant_links": []
+ },
+ {
+  "id": "h08",
+  "category": "food",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Herbs taste strongest just before they flower. That is the best time to harvest.",
+  "plant_links": []
+ },
+ {
+  "id": "h09",
+  "category": "food",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [
+   "lemon"
+  ],
+  "text": "A lemon tree in a large pot can give dozens of lemons a year.",
+  "plant_links": [
+   {
+    "slug": "lemon",
+    "name": "Lemon"
+   }
+  ]
+ },
+ {
+  "id": "h10",
+  "category": "food",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Vertical gardening lets climbers like karela and cucumber use the wall instead of the floor.",
+  "plant_links": []
+ },
+ {
+  "id": "h11",
+  "category": "food",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Crops that need hand pollination on high-rise balconies include gourds and pumpkins. Few bees reach the 15th floor.",
+  "plant_links": []
+ },
+ {
+  "id": "h12",
+  "category": "food",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [
+   "curry_leaf"
+  ],
+  "text": "Snip whole curry leaf sprigs instead of single leaves. The plant becomes bushier.",
+  "plant_links": [
+   {
+    "slug": "curry-leaf",
+    "name": "Curry Leaf"
+   }
+  ]
+ },
+ {
+  "id": "x01",
+  "category": "space",
+  "contexts": [
+   "loading",
+   "transition",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Use every layer: floor pots, railing planters, wall shelves and hanging baskets.",
+  "plant_links": []
+ },
+ {
+  "id": "x02",
+  "category": "space",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "A balcony railing planter can hold a row of herbs without using any floor space.",
+  "plant_links": []
+ },
+ {
+  "id": "x03",
+  "category": "space",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Climbers turn bare walls and grills into green screens for privacy.",
+  "plant_links": []
+ },
+ {
+  "id": "x04",
+  "category": "space",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Trailing plants like portulaca and money plant soften hard concrete edges.",
+  "plant_links": []
+ },
+ {
+  "id": "x05",
+  "category": "space",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Tiered plant stands give each pot its own light.",
+  "plant_links": []
+ },
+ {
+  "id": "x06",
+  "category": "space",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "A 1.8 m by 1.2 m balcony can comfortably hold 8 to 12 pots arranged in layers.",
+  "plant_links": []
+ },
+ {
+  "id": "x07",
+  "category": "space",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Keep the heaviest pots near walls and the lightest ones on railings and hooks.",
+  "plant_links": []
+ },
+ {
+  "id": "x08",
+  "category": "space",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Leave a 60 cm walkway. You need room to water, prune and sit with your chai.",
+  "plant_links": []
+ },
+ {
+  "id": "x09",
+  "category": "space",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Window sills are perfect for herbs. Just make sure pots are secured against wind.",
+  "plant_links": []
+ },
+ {
+  "id": "x10",
+  "category": "space",
+  "contexts": [
+   "loading",
+   "tip"
+  ],
+  "months": [],
+  "plant_ids": [],
+  "text": "Use saucers under balcony pots so water doesn't drip onto the neighbours below.",
+  "plant_links": []
+ }
+]

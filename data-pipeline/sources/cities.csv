@@ -1,0 +1,70 @@
+id,name,state,lat,lon
+mumbai,Mumbai,Maharashtra,19.076,72.878
+pune,Pune,Maharashtra,18.520,73.857
+pimpri_chinchwad,Pimpri-Chinchwad,Maharashtra,18.629,73.800
+thane,Thane,Maharashtra,19.218,72.978
+navi_mumbai,Navi Mumbai,Maharashtra,19.033,73.030
+nashik,Nashik,Maharashtra,19.998,73.790
+nagpur,Nagpur,Maharashtra,21.146,79.088
+aurangabad,Chhatrapati Sambhajinagar,Maharashtra,19.876,75.343
+kolhapur,Kolhapur,Maharashtra,16.705,74.243
+solapur,Solapur,Maharashtra,17.660,75.906
+delhi,Delhi,Delhi,28.614,77.209
+gurugram,Gurugram,Haryana,28.459,77.027
+noida,Noida,Uttar Pradesh,28.535,77.391
+ghaziabad,Ghaziabad,Uttar Pradesh,28.669,77.454
+faridabad,Faridabad,Haryana,28.408,77.317
+bengaluru,Bengaluru,Karnataka,12.972,77.594
+mysuru,Mysuru,Karnataka,12.296,76.639
+mangaluru,Mangaluru,Karnataka,12.915,74.856
+hubballi,Hubballi,Karnataka,15.365,75.124
+belagavi,Belagavi,Karnataka,15.850,74.498
+hyderabad,Hyderabad,Telangana,17.385,78.487
+warangal,Warangal,Telangana,17.969,79.594
+chennai,Chennai,Tamil Nadu,13.083,80.271
+coimbatore,Coimbatore,Tamil Nadu,11.017,76.956
+madurai,Madurai,Tamil Nadu,9.925,78.120
+tiruchirappalli,Tiruchirappalli,Tamil Nadu,10.790,78.705
+ooty,Ooty,Tamil Nadu,11.410,76.695
+puducherry,Puducherry,Puducherry,11.941,79.808
+kochi,Kochi,Kerala,9.931,76.267
+thiruvananthapuram,Thiruvananthapuram,Kerala,8.524,76.937
+kozhikode,Kozhikode,Kerala,11.259,75.780
+kolkata,Kolkata,West Bengal,22.573,88.364
+siliguri,Siliguri,West Bengal,26.727,88.395
+darjeeling,Darjeeling,West Bengal,27.036,88.263
+ahmedabad,Ahmedabad,Gujarat,23.023,72.571
+surat,Surat,Gujarat,21.170,72.831
+vadodara,Vadodara,Gujarat,22.307,73.181
+rajkot,Rajkot,Gujarat,22.303,70.802
+jaipur,Jaipur,Rajasthan,26.912,75.787
+jodhpur,Jodhpur,Rajasthan,26.238,73.024
+udaipur,Udaipur,Rajasthan,24.585,73.712
+kota,Kota,Rajasthan,25.213,75.865
+lucknow,Lucknow,Uttar Pradesh,26.847,80.947
+kanpur,Kanpur,Uttar Pradesh,26.449,80.331
+varanasi,Varanasi,Uttar Pradesh,25.318,82.973
+agra,Agra,Uttar Pradesh,27.177,78.008
+prayagraj,Prayagraj,Uttar Pradesh,25.436,81.846
+indore,Indore,Madhya Pradesh,22.720,75.858
+bhopal,Bhopal,Madhya Pradesh,23.260,77.413
+gwalior,Gwalior,Madhya Pradesh,26.218,78.183
+jabalpur,Jabalpur,Madhya Pradesh,23.181,79.987
+raipur,Raipur,Chhattisgarh,21.251,81.630
+patna,Patna,Bihar,25.594,85.137
+ranchi,Ranchi,Jharkhand,23.344,85.310
+bhubaneswar,Bhubaneswar,Odisha,20.296,85.825
+visakhapatnam,Visakhapatnam,Andhra Pradesh,17.687,83.218
+vijayawada,Vijayawada,Andhra Pradesh,16.506,80.648
+nellore,Nellore,Andhra Pradesh,14.443,79.987
+panaji,Panaji (Goa),Goa,15.490,73.828
+chandigarh,Chandigarh,Chandigarh,30.733,76.779
+ludhiana,Ludhiana,Punjab,30.901,75.857
+amritsar,Amritsar,Punjab,31.634,74.872
+dehradun,Dehradun,Uttarakhand,30.316,78.032
+shimla,Shimla,Himachal Pradesh,31.105,77.173
+srinagar,Srinagar,Jammu & Kashmir,34.083,74.797
+jammu,Jammu,Jammu & Kashmir,32.726,74.857
+guwahati,Guwahati,Assam,26.144,91.736
+shillong,Shillong,Meghalaya,25.579,91.893
+gangtok,Gangtok,Sikkim,27.339,88.606

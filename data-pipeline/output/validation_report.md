@@ -1,0 +1,91 @@
+# Validation report (2026-10-11)
+
+- Plants: **500** · Insights: **187**
+- GBIF matched: 500 · Photos: 500 · OpenPlantDB traits: 450 · Families: 108
+- Network calls this run: {'gbif': 100, 'inat_search': 100, 'inat_taxon': 99, 'inat_obs': 37, 'wiki_pageimage': 3, 'commons': 3}
+
+## Errors (0)
+- none
+
+## Warnings (18)
+- thai_basil: GBIF FUZZY match (94) 'Ocimum basilicum var. thyrsiflora' -> 'Ocimum basilicum var. thyrsiflorum (L.) Benth.'
+- mosambi: GBIF HIGHERRANK match (98) 'Citrus limetta' -> 'Citrus L.'
+- rose_hybrid: GBIF HIGHERRANK match (96) 'Rosa hybrid tea' -> 'Rosa L.'
+- dendrobium: GBIF HIGHERRANK match (95) 'Dendrobium hybrids' -> 'Dendrobium Sw.'
+- phalaenopsis: GBIF FUZZY match (96) 'Phalaenopsis hybrids' -> 'Phalaenopsis hybrida'
+- vanda: GBIF HIGHERRANK match (96) 'Vanda hybrids' -> 'Vanda R.Br.'
+- amaryllis: GBIF FUZZY match (95) 'Hippeastrum hybrids' -> 'Hippeastrum hybridum hort. ex Velenovsky'
+- daylily: GBIF FUZZY match (95) 'Hemerocallis hybrids' -> 'Hemerocallis hybrida hort. ex Kerbs'
+- hibiscus_hawaiian: GBIF HIGHERRANK match (100) 'Hibiscus rosa-sinensis hybrids' -> 'Hibiscus rosa-sinensis L.'
+- philodendron_birkin: GBIF HIGHERRANK match (95) 'Philodendron' -> 'Philodendron Schott'
+- rudraksha: GBIF HIGHERRANK match (99) 'Elaeocarpus ganitrus' -> 'Elaeocarpus L.'
+- lithops: GBIF HIGHERRANK match (96) 'Lithops spp.' -> 'Lithops N.E.Br.'
+- tinda: no openly licensed photo on iNaturalist
+- phalaenopsis: no iNaturalist taxon for 'Phalaenopsis hybrida'
+- amaryllis: no iNaturalist taxon for 'Hippeastrum hybridum'
+- pilea_peperomioides: no openly licensed photo on iNaturalist
+- patchouli: no openly licensed photo on iNaturalist
+- iresine: no iNaturalist taxon for 'Iresine herbstii'
+
+## Notes (61)
+- Prices checked against real listings for 54 plants (sources/price_checks.csv)
+- peas: 'Pisum sativum' is a synonym of 'Lathyrus oleraceus' in GBIF
+- cabbage: 'Brassica oleracea var. capitata' is a synonym of 'Brassica oleracea' in GBIF
+- cauliflower: 'Brassica oleracea var. botrytis' is a synonym of 'Brassica cretica' in GBIF
+- thai_basil: 'Ocimum basilicum var. thyrsiflora' is a synonym of 'Ocimum basilicum' in GBIF
+- multivitamin_plant: 'Sauropus androgynus' is a synonym of 'Breynia androgyna' in GBIF
+- tinda: 'Praecitrullus fistulosus' is a synonym of 'Benincasa fistulosa' in GBIF
+- broccoli: 'Brassica oleracea var. italica' is a synonym of 'Brassica oleracea' in GBIF
+- knol_khol: 'Brassica oleracea var. gongylodes' is a synonym of 'Brassica oleracea' in GBIF
+- pak_choi: 'Brassica rapa subsp. chinensis' is a synonym of 'Brassica rapa' in GBIF
+- kale: 'Brassica oleracea var. sabellica' is a synonym of 'Brassica oleracea' in GBIF
+- swiss_chard: 'Beta vulgaris subsp. cicla' is a synonym of 'Beta vulgaris' in GBIF
+- sweet_corn: 'Zea mays var. saccharata' is a synonym of 'Zea mays' in GBIF
+- loquat: 'Eriobotrya japonica' is a synonym of 'Rhaphiolepis bibas' in GBIF
+- french_marigold: 'Tagetes patula' is a synonym of 'Tagetes erecta' in GBIF
+- larkspur: 'Consolida ajacis' is a synonym of 'Delphinium ajacis' in GBIF
+- african_daisy: 'Osteospermum ecklonis' is a synonym of 'Dimorphotheca ecklonis' in GBIF
+- alocasia_polly: 'Alocasia x amazonica' is a synonym of 'Alocasia mortfontanensis' in GBIF
+- fountain_grass: 'Pennisetum setaceum' is a synonym of 'Cenchrus setaceus' in GBIF
+- mexican_grass: 'Zoysia tenuifolia' is a synonym of 'Zoysia matrella' in GBIF
+- golden_barrel_cactus: 'Echinocactus grusonii' is a synonym of 'Kroenleinia grusonii' in GBIF
+- gasteria: 'Gasteria bicolor' is a synonym of 'Gasteria obliqua' in GBIF
+- red_cabbage: 'Brassica oleracea var. capitata f. rubra' is a synonym of 'Brassica oleracea' in GBIF
+- shallots: 'Allium cepa var. aggregatum' is a synonym of 'Allium cepa' in GBIF
+- tecoma_capensis: 'Tecoma capensis' is a synonym of 'Tecomaria capensis' in GBIF
+- tuberose: only a non-commercial photo licence (cc-by-nc) available
+- sedum_burrito: only a non-commercial photo licence (cc-by-nc) available
+- davana: only a non-commercial photo licence (cc-by-nc) available
+- gasteria: only a non-commercial photo licence (cc-by-nc) available
+- mango_ginger: only a non-commercial photo licence (cc-by-nc) available
+- mini_monstera: only a non-commercial photo licence (cc-by-nc) available
+- agathi: skipped Wikipedia illustration 'Starr_050518-1632_Sesbania_grandiflora.jpg' (kept iNaturalist photo)
+- cardamom: skipped Wikipedia illustration 'Elettaria_cardamomum_-_Köhler–s_Medizinal-Pflanzen-057.jpg' (kept iNaturalist photo)
+- black_pepper: skipped Wikipedia illustration 'Piper_nigrum_-_Köhler–s_Medizinal-Pflanzen-107.jpg' (kept iNaturalist photo)
+- lavender: skipped Wikipedia illustration 'Lavandula_angustifolia_-_Köhler–s_Medizinal-Pflanzen-087.jpg' (kept iNaturalist photo)
+- lablab: skipped Wikipedia illustration 'Leiden_University_Library_-_Seikei_Zusetsu_vol._18,_page_038_-_白花稨豆_-_Lablab_purpureus_(L.)_Sweet,_1804.jpg' (kept iNaturalist photo)
+- swiss_chard: skipped Wikipedia illustration 'Beta_vulgaris_-_Köhler–s_Medizinal-Pflanzen-167.jpg' (kept iNaturalist photo)
+- sweet_corn: skipped Wikipedia illustration 'Zea_mays_-_Köhler–s_Medizinal-Pflanzen-283.jpg' (kept iNaturalist photo)
+- water_spinach: skipped Wikipedia illustration 'N_Ipoa_D1600.JPG' (kept iNaturalist photo)
+- african_daisy: skipped Wikipedia illustration 'Dimorphoteca_ecklonis,_Botanical_garden_of_Barcelona.jpg' (kept iNaturalist photo)
+- hypoestes: skipped Wikipedia illustration 'Starr_080117-1693_Hypoestes_phyllostachya.jpg' (kept iNaturalist photo)
+- mexican_grass: skipped Wikipedia illustration 'Zoysia_matrella_at_Peradeniya_Botanical_Garden.jpg' (kept iNaturalist photo)
+- christmas_cactus: skipped Wikipedia illustration 'Schlumbergera_truncata_(Exotic_Flora_Plate_20).jpg' (kept iNaturalist photo)
+- mango_ginger: skipped Wikipedia illustration 'Curcuma_amada_Roscoe_1854.jpg' (kept iNaturalist photo)
+- jalapeno: skipped Wikipedia illustration 'Capsicum_annuum_-_Köhler–s_Medizinal-Pflanzen-027.jpg' (kept iNaturalist photo)
+- tapioca: skipped Wikipedia illustration 'Manihot_esculenta_-_Köhler–s_Medizinal-Pflanzen-090.jpg' (kept iNaturalist photo)
+- broad_beans: skipped Wikipedia illustration 'Illustration_Vicia_faba1.jpg' (kept iNaturalist photo)
+- groundnut: skipped Wikipedia illustration 'Arachis_hypogaea_-_Köhler–s_Medizinal-Pflanzen-163.jpg' (kept iNaturalist photo)
+- coconut_dwarf: skipped Wikipedia illustration 'Cocos_nucifera_-_Köhler–s_Medizinal-Pflanzen-187.jpg' (kept iNaturalist photo)
+- sesame: skipped Wikipedia illustration 'Sesamum_indicum_-_Köhler–s_Medizinal-Pflanzen-129.jpg' (kept iNaturalist photo)
+- sandalwood: skipped Wikipedia illustration 'Santalum_album_-_Köhler–s_Medizinal-Pflanzen-128.jpg' (kept iNaturalist photo)
+- nagkesar: skipped Wikipedia illustration 'Mesua_ferrea_at_Kepong_Botanical_Garden_20230625_111956.jpg' (kept iNaturalist photo)
+- nutmeg: skipped Wikipedia illustration 'Myristica_fragrans_-_Köhler–s_Medizinal-Pflanzen-097.jpg' (kept iNaturalist photo)
+- clove: skipped Wikipedia illustration 'Syzygium_aromaticum_-_Köhler–s_Medizinal-Pflanzen-030.jpg' (kept iNaturalist photo)
+- vanilla: skipped Wikipedia illustration 'Vanilla_planifolia_-_Köhler–s_Medizinal-Pflanzen-278.jpg' (kept iNaturalist photo)
+- lasoda: skipped Wikipedia illustration 'Cordia_myxa_MS_1790.jpg' (kept iNaturalist photo)
+- mudakathan: skipped Wikipedia illustration 'Cardiospermum_halicacabum_1808.jpg' (kept iNaturalist photo)
+- Wikimedia Commons photos used for 459/500 plants (25 pinned files, 21 article overrides)
+- OpenPlantDB matched 450/500 species
+- Perenual skipped (set PERENUAL_KEY to enable; free tier = 100 req/day)
+- Climate normals (Open-Meteo ERA5 2020-2024) for 69 cities

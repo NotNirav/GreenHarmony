@@ -1,0 +1,47 @@
+{
+ "generated": "2026-10-11",
+ "plants": 500,
+ "insights": 187,
+ "by_category": {
+  "flowering": 129,
+  "foliage": 87,
+  "vegetable": 86,
+  "fruit": 55,
+  "herb": 44,
+  "succulent": 37,
+  "medicinal": 34,
+  "climber": 28
+ },
+ "by_availability": {
+  "common": 325,
+  "everywhere": 112,
+  "specialty": 63
+ },
+ "by_popularity": {
+  "5": 25,
+  "4": 92,
+  "3": 256,
+  "2": 125,
+  "1": 2
+ },
+ "beginner_friendly": 333,
+ "edible": 198,
+ "with_photo": 500,
+ "with_gbif": 500,
+ "with_openplantdb": 450,
+ "families": 108,
+ "insights_by_category": {
+  "fact": 25,
+  "beginner": 24,
+  "watering": 18,
+  "culture": 18,
+  "seasonal": 15,
+  "soil": 14,
+  "pests": 14,
+  "sunlight": 13,
+  "climate": 12,
+  "impact": 12,
+  "food": 12,
+  "space": 10
+ }
+}
